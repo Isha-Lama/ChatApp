@@ -4,11 +4,9 @@ A real-time chat application built with the MERN stack (MongoDB, Express, React,
 
 <p align="center">
   <img src="https://github.com/Isha-Lama/ChatApp/raw/main/frontend/public/chatapp.png" alt="Chat App Screenshot" width="45%" style="margin-right: 5%;">
-  <img src="https://github.com/Isha-Lama/ChatApp/raw/main/frontend/public/admin.png" alt="Admin Panel Screenshot" width="45%">
+  <br><img src="https://github.com/Isha-Lama/ChatApp/raw/main/frontend/public/admin.png" alt="Admin Panel Screenshot" width="45%">
 </p>
-<p align="center">
-  <em>Left: Chat Interface &nbsp;|&nbsp; Right: Admin Panel</em>
-</p>
+
 
 ## 🛠️ Tech Stack
 
