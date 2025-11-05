@@ -3,8 +3,8 @@
 A real-time chat application built with the MERN stack (MongoDB, Express, React, Node.js) and Socket.IO for real-time communication.
 
 <p align="center">
-  <img src="https://github.com/Isha-Lama/ChatApp/raw/main/frontend/public/chatapp.png" alt="Chat App Screenshot" width="45%" style="margin-right: 5%;">
-  <br><img src="https://github.com/Isha-Lama/ChatApp/raw/main/frontend/public/admin.png" alt="Admin Panel Screenshot" width="45%">
+  <img src="https://github.com/Isha-Lama/ChatApp/raw/main/frontend/public/chatapp.png" alt="Chat App Screenshot" width="80%" style="margin-right: 5%;">
+  <br><br><img src="https://github.com/Isha-Lama/ChatApp/raw/main/frontend/public/admin.png" alt="Admin Panel Screenshot" width="80%">
 </p>
 
 
