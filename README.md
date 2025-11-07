@@ -44,8 +44,8 @@ A real-time chat application built with the MERN stack (MongoDB, Express, React,
 3.  Create a `.env` file in the `backend` directory and add your configuration based on the `.env.example` file:
     ```
     # .env
-    MONGO_URI=your_mongodb_atlas_connection_string_here
-    JWT_SECRET=a_very_secret_key_for_jwt
+    MONGO_URI=mongodb_atlas_connection_string
+    JWT_SECRET=secret_key_for_jwt
     PORT=5000
     ```
 4.  Run the backend server:
