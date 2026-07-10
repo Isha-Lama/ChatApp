@@ -18,7 +18,7 @@ A real-time chat application built with the MERN stack (MongoDB, Express, React,
 * **dotenv** (Environment variables)
 
 ### Frontend
-* **React** (UI Library)
+* **React** (Library)
 * **Socket.IO Client** (Real-time connection)
 * **Tailwind CSS** (Styling)
 
